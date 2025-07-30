@@ -1,0 +1,31 @@
+{
+  "repositories": [
+    "/Users/apple/Desktop/raycast-image-finder",
+    "/Users/apple/Desktop/bitnile-backend-app",
+    "/Users/apple/Downloads/Archive/buick-animation-backend/wishoo-buick-animation-backend/wishoo-buick-animation-backend",
+    "/Users/apple/Downloads/Archive/Duett",
+    "/Users/apple/Downloads/Archive/just-a-moment",
+    "/Users/apple/Downloads/Archive/MOC",
+    "/Users/apple/Downloads/Archive/upnext",
+    "/Users/apple/Downloads/Archive/wishoo-electrify",
+    "/Users/apple/Downloads/Archive/wishoo-hummer-vegas"
+  ],
+  "commit_strategies": [
+    "bug_fix",
+    "feature_addition", 
+    "code_improvement",
+    "documentation",
+    "performance_optimization",
+    "security_enhancement"
+  ],
+  "commit_frequency": {
+    "daily_commits": 3,
+    "times": ["09:00", "15:00", "21:00"]
+  },
+  "quality_settings": {
+    "meaningful_changes_only": true,
+    "professional_messages": true,
+    "conventional_commits": true,
+    "auto_push": true
+  }
+}

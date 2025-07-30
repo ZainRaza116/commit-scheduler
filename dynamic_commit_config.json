@@ -1,0 +1,17 @@
+{
+  "repositories": [
+    "/app/repos/upnext",
+    "/app/repos/Duett", 
+    "/app/repos/MOC"
+  ],
+  "openai_api_key": "PLACEHOLDER_WILL_BE_SET_BY_ENV",
+  "file_extensions": [".ts", ".tsx", ".js", ".jsx", ".py"],
+  "ignore_patterns": ["node_modules", ".git", "dist", "build", "daily_logs", "progress", "learning_notes", "src/fixes", "src/features", "src/performance", "src/security", "__pycache__", "media", "static", "staticfiles", "venv", "env", ".venv", "site-packages", ".next", "out", ".expo"],
+  "modification_types": [
+    "improve_readability",
+    "add_error_handling"
+  ],
+  "max_tokens": 50,
+  "temperature": 0.1,
+  "modify_existing_only": true
+}
